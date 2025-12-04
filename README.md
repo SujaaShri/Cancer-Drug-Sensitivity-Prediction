@@ -37,6 +37,7 @@ Lightweight feed-forward predictor
 
 Outputs continuous log-IC50 value
 
+
 # Training Details
 
 Optimizer: AdamW
