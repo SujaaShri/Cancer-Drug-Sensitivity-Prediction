@@ -1,6 +1,6 @@
 This project implements a multimodal deep learning framework for predicting the natural logarithm of IC50 (drug sensitivity) across cancer cell lines. The system integrates drug molecular structure and cell-line multi-omics information using an end-to-end trainable architecture.
 
-#Key Components
+# Key Components
 1. Drug Representation
 
 Molecular Graph Encoder
@@ -37,7 +37,7 @@ Lightweight feed-forward predictor
 
 Outputs continuous log-IC50 value
 
-#Training Details
+# Training Details
 
 Optimizer: AdamW
 
